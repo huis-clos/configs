@@ -1,0 +1,4 @@
+akamud.vscode-theme-onedark
+dbaeumer.vscode-eslint
+lukasz-wronski.ftp-sync
+msjsdiag.debugger-for-chrome
